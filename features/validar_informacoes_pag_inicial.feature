@@ -1,3 +1,4 @@
+@exec
 Funcionalidade: Validar informações na página inicial
 Essa funcionalidade se refere a informações
 do tipo contato, endereço etc
