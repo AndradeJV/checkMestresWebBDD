@@ -1,4 +1,4 @@
-from features.helpers.links.Links import Links
+from features.helpers.links.ClickLinks import Links
 
 
 class GlobalPages:
