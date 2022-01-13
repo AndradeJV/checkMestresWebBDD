@@ -14,6 +14,9 @@ def before_all(context):
   context.browser = browsers[browser]()
 
 
+# def before_steps(context):
+  
+
 # Depois de executar:
 
 def after_all(context):
